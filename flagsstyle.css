@@ -1,0 +1,27 @@
+.flag-outer{
+    width: 200px;
+    height: 120px;
+}
+.orange-layer{
+    width:200px;
+    height: 40px;
+    background-color: orangered;
+}
+.white-layer{
+    width:200px;
+    height: 40px;
+    background-color: rgb(253, 253, 253);
+}
+.green-layer{
+    width:200px;
+    height: 40px;
+    background-color: rgb(6, 160, 6);
+}
+.ashok-chakar{
+    position: relative;
+    left: 80px;
+}
+img{
+    width: 40px;
+    height: 40px;
+}
