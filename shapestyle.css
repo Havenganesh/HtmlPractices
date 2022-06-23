@@ -1,0 +1,68 @@
+body div{
+float: left;
+}
+div{
+    margin: 30px;
+    text-align: center;
+    color: cornsilk;
+}
+.square {
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+  }
+  .circle{
+    height: 50px;
+    width: 50px;
+    background-color: #555;
+    border-radius: 50%;
+  }
+  .tablet{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: #555;
+
+  }
+  .vtablet{
+    height: 100px;
+    width: 50px;
+    border-radius: 50px;
+    color: aliceblue;
+    background-color: #555;
+  }
+  .taporoid{
+    border-bottom: 100px solid transparent;
+    border-top: 100px solid transparent;
+	border-left: 100px solid black;
+	height: 100px;
+	width: 0;
+    color: azure;
+  }
+  .parallelogram {
+	width: 150px;
+	height: 150px;
+	transform: skew(20deg);
+	background: #541;
+}
+.triangle {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-bottom: 50px solid #555;
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid #555;
+}
+  [class$="red"] {
+    background-color: red;
+  }
+  [class$="blue"] {
+    background-color: rgb(8, 6, 124);
+  }
+  
