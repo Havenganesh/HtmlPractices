@@ -48,10 +48,10 @@
     top: 40px;
 }
 .artingua-toplayer{
-    border-top: 45px solid black;
-    border-left:45px solid rgb(196, 16, 16);
-    border-right:45px  solid rgb(196, 16, 16);
-    width:90px;
+    border-top: 50px solid black;
+    border-left: 39px solid rgb(196, 16, 16);
+    border-right:39px  solid rgb(196, 16, 16);
+    width:102px;
     background-color: black;
 }
 .artingua{
@@ -59,13 +59,21 @@
 }
 .artingua-middlelayer{
     border-top: 20px solid rgb(15, 158, 224);
-    border-left: 22px solid rgb(196, 16, 16);
-    border-right:22px  solid rgb(196, 16, 16);
-    width: 46px;
+    border-left: 16px solid rgb(196, 16, 16);
+    border-right:16px  solid rgb(196, 16, 16);
+    width: 71px;
     background-color: black;
     position: relative;
-    left: 45px;
-
+    left: 38.5px;
+}
+.artingua-bottomlayer{
+    border-top: 50px solid #fff;
+    border-left: 35px solid rgb(196, 16, 16);
+    border-right:35px  solid rgb(196, 16, 16);
+    width: 0;
+    background-color: black;
+    position: relative;
+    left: 55px;
 }
 fill{
     width: 29px;
