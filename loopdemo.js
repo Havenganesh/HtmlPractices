@@ -14,3 +14,16 @@ else
     console.log("third priority")
     alert("third")
 }
+var time=prompt("what is the time now")
+while(time<=7)
+{
+    console.log("play")
+    alert("you play")
+    time=time+1
+}
+else
+{
+    console.log("no play")
+    alert("no play")
+}
+
